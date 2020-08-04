@@ -10,6 +10,7 @@ class Project
   end
 
   def add_backer(backer)
+    backer << "steven"
 
   end
 end
