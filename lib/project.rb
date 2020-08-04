@@ -5,6 +5,8 @@ class Project
   def initialize 
     @title = "Project With So Much Amaze"
 
+    en
+
 
 
 end
