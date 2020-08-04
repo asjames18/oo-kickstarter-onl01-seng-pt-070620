@@ -4,6 +4,7 @@ attr_reader :name
 
 def initialize (name)
   @name = "Avi"
+  @backed_projects = []
 
 end
 
