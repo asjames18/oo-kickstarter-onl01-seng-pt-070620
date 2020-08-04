@@ -11,6 +11,7 @@ def initialize (name)
 end
 
 def back_project(project)
+  project << magic
 
 end
 end
