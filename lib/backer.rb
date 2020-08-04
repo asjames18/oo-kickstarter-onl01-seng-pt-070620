@@ -1,7 +1,6 @@
 class Backer
 
-def initialize (name)
-  @name = name
+attr_reader :name
 
 end
 
