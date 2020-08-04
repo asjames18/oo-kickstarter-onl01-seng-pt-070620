@@ -10,7 +10,7 @@ def initialize (name)
   @title = "Project With So Much Amaze"
 end
 
-def back_project
+def back_project(project)
 
 end
 end
