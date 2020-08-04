@@ -13,7 +13,7 @@ def initialize (name)
 end
 
 def back_project(project)
-@project < self 
+@project << self 
 
 end
 end
