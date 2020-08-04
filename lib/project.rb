@@ -2,10 +2,10 @@ class Project
 
   attr_reader :title
 
-  def initialize 
+  def initialize
     @title = "Project With So Much Amaze"
 
-    en
+  end
 
 
 
