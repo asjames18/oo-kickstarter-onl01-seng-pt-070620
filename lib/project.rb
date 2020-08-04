@@ -6,6 +6,8 @@ class Project
 
   def initialize(title)
     @title = "Project With So Much Amaze"
+    @backed_projects = []
+
 
   end
 
