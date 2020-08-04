@@ -9,4 +9,8 @@ def initialize (name)
   @backed_projects = []
   @title = "Project With So Much Amaze"
 end
+
+def back_project
+
+end
 end
