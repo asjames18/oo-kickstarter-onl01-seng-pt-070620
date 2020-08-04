@@ -1,3 +1,5 @@
+require 'pry'
+
 class Backer
 
   attr_accessor :backed_projects
@@ -11,7 +13,7 @@ def initialize (name)
 end
 
 def back_project(project)
-
+binding.pry
 
 end
 end
